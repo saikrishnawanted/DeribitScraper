@@ -1,0 +1,4 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-10-09,ETH,25OCT19,200,P,0.096,90.46,1,192.43,ETH-25OCT19-200-P
+2019-10-10,ETH,25OCT19,200,P,0.088,88.88,2,194.29,ETH-25OCT19-200-P
+2019-10-11,ETH,25OCT19,200,P,0.11,82.05,2,185.82,ETH-25OCT19-200-P

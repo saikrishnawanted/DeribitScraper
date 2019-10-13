@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-09 00:34:22.755,44139825,BTC-18OCT19-7000-C,3,1570581262755,1.8,1.8,0.145,buy,2,8171.79,51.23

@@ -1,0 +1,3 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-10-09,BTC,18OCT19,9500,P,0.117,74.14,3,8590.39,BTC-18OCT19-9500-P
+2019-10-11,BTC,18OCT19,9500,P,0.123,76.98,7,8526.91,BTC-18OCT19-9500-P

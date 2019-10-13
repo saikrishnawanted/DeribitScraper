@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-09 08:09:05.292,8454452,ETH-27DEC19-640-C,108,1570608545292,160.0,160.0,0.002,sell,2,180.88,109.09

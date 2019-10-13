@@ -1,0 +1,3 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-07 16:45:27.083,8405131,ETH-25OCT19-160-C,25,1570466727083,25.0,25.0,0.138,buy,0,178.61,89.41
+2019-10-09 16:52:18.039,8484142,ETH-25OCT19-160-C,26,1570639938039,75.0,75.0,0.194,sell,0,193.62,102.16

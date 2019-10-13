@@ -1,5 +1,5 @@
 # Note: Official DeribitApi github repo is outdated, local file to incorporate latest rest API changes
-import Credentials
+#import Credentials
 
 import JoinAllFiles
 from DeribitApi import RestClient
@@ -155,8 +155,8 @@ if __name__ == "__main__":
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
     ################ CHANGE THIS ##################
-    api_key = Credentials.apikey
-    api_secret = Credentials.apisecret
+    api_key = ""
+    api_secret = ""
     ###############################################
 
     scraper = DeribitOptionScraper(api_key, api_secret, outdir="Data/")

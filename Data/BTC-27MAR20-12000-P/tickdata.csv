@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-06 12:59:45.649,43831024,BTC-27MAR20-12000-P,102,1570366785649,0.1,0.1,0.585,sell,2,7960.3,80.79
