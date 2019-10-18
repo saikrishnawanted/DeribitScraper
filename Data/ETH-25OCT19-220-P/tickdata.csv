@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-15 16:15:29.606,8698168,ETH-25OCT19-220-P,15,1571156129606,1.0,1.0,0.23,buy,2,178.2,0.0

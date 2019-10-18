@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-17 08:23:50.984,45113567,BTC-29NOV19-6500-C,1,1571300630984,0.2,0.2,0.218,buy,1,8034.99,72.53

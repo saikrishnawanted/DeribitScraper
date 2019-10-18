@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-14 03:18:57.055,44798898,BTC-27DEC19-44000-C,190,1571023137055,0.1,0.1,0.001,buy,0,8297.93,131.58

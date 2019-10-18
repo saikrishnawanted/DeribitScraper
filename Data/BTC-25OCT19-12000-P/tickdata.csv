@@ -1,0 +1,2 @@
+date_utc,tradeId,instrument,tradeSeq,timeStamp,quantity,amount,price,direction,tickDirection,indexPrice,iv
+2019-10-15 15:54:59.999,44921301,BTC-25OCT19-12000-P,30,1571154899999,0.1,0.1,0.455,sell,2,8250.37,116.66
